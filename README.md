@@ -27,4 +27,3 @@ Your freepik account's password
 ### DATABASE_URL
 
 URL of the postgres database. Will be added automatically if you have the heroku add-on
-"freepikbot" 
