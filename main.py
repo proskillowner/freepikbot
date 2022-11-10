@@ -232,4 +232,10 @@ def main():
 
 
 if __name__ == '__main__':
+    os.environ['TELEGRAM_TOKEN'] = '5520921893:AAG2L-s7XHkPdDXzgh4nHGEt4zfYV9MMMFc'
+    os.environ['ADMIN_USERNAMES'] = 'proskilowner'
+    os.environ['FREEPIK_USERNAME'] = 'proskilowner@gmail.com'
+    os.environ['FREEPIK_PASSWORD'] = 'wjfeoqlalf0604~A'
+    os.environ['TWO_CAPTCHA_API_KEY'] = 'proskillowner'
+    # os.environ['DATABASE_URL'] = ''
     main()
